@@ -1,0 +1,28 @@
+# Mac stuff:
+.DS_Store
+
+# trunk output folder
+dist
+
+# Rust compile target directories:
+target
+target_ra
+target_wasm
+
+# RecordMyDesktop output folder
+videos
+
+# https://github.com/lycheeverse/lychee
+.lycheecache
+
+TODO
+
+**dot.png
+
+research
+.qodo
+.cursor
+.idea
+*.iso
+./db
+build-context
